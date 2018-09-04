@@ -2,6 +2,12 @@
 
 Examples of functional style programming in JavaScript
 
+### Contents
+ex_01.js - functional basics
+ex_02.js - map / range
+ex_03.js - filter
+ex_04.js - reduce
+
 ### Project Structure
 ```
 $ tree -I node_modules
